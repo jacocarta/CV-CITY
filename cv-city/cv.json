@@ -1,0 +1,236 @@
+{
+  "person": {
+    "name": "Jacopo Cartanese",
+    "title": "MSc Financial Management @ Nova SBE",
+    "tagline": "I connect people, markets and ideas — in four languages.",
+    "email": "jacopo@cartanese.com",
+    "linkedin": "https://www.linkedin.com/in/jacopo-cartanese-0259762a9",
+    "avatar": { "skin": "#f1c27d", "hair": "#3b2a20", "hairStyle": "short", "beard": false, "glasses": false, "shirt": "#4a6cf7", "pants": "#2d2d3a" }
+  },
+  "buildings": [
+    { "id": "experience", "type": "office", "label": "Experience", "icon": "briefcase", "color": "#4a6cf7" },
+    { "id": "education", "type": "university", "label": "Education", "icon": "graduation", "color": "#e5533d" },
+    { "id": "awards", "type": "museum", "label": "Awards & Achievements", "icon": "trophy", "color": "#f2b134" },
+    { "id": "skills", "type": "lab", "label": "Skills & Projects", "icon": "flask", "color": "#21b07a" },
+    { "id": "clubs", "type": "arena", "label": "Clubs & Initiatives", "icon": "mic", "color": "#a24bdb" },
+    { "id": "international", "type": "airport", "label": "International", "icon": "plane", "color": "#1fa5c9" },
+    { "id": "community", "type": "field", "label": "Sport & Community", "icon": "heart", "color": "#ef5d8f" },
+    { "id": "contact", "type": "postoffice", "label": "Contact", "icon": "mail", "color": "#ff7a59" }
+  ],
+  "items": [
+    {
+      "id": "exp-xtronix",
+      "building": "experience",
+      "title": "Finance & Export Operations Intern",
+      "org": "XTRONIX S.r.l.",
+      "location": "Milan, Italy",
+      "period": "Jun 2024 – Aug 2024",
+      "description": "Coordinated the financial oversight of international B2B transactions in the wholesale electronics sector.",
+      "highlights": [
+        "Financial analysis, cost management, margin and pricing monitoring",
+        "Supported pricing strategies for export deals",
+        "Exposure to cross-border trade finance and payment terms (L/Cs, advance payments)"
+      ]
+    },
+    {
+      "id": "exp-algotrading",
+      "building": "experience",
+      "title": "Intern — Forex, FTMO & Crypto Trading",
+      "org": "Algo Trading Ltd",
+      "location": "Girne, Cyprus",
+      "period": "Jun 2023 – Aug 2023",
+      "description": "Introduced to intraday trading, decision-making processes and market dynamics.",
+      "highlights": [
+        "Risk management: leverage control and stop-loss strategies",
+        "Back-tested and optimized trading strategies for FTMO challenges and prop accounts",
+        "Researched macro and geopolitical drivers of FX and digital asset markets"
+      ]
+    },
+    {
+      "id": "exp-jetor",
+      "building": "experience",
+      "title": "Sales Area Associate & International PR Delegate",
+      "org": "Jetor Consulting (Junior Enterprise)",
+      "location": "Rome, Italy",
+      "period": "Oct 2023 – Dec 2024",
+      "description": "Engaged directly with clients, crafting tailored business proposals and managing project planning, resource estimation and customer acquisition.",
+      "highlights": [
+        "Negotiated tailored solutions to clients' business challenges",
+        "Managed relations with Junior Enterprises from other countries"
+      ]
+    },
+    {
+      "id": "edu-nova",
+      "building": "education",
+      "title": "MSc in Financial Management",
+      "org": "Nova School of Business and Economics",
+      "location": "Lisbon, Portugal",
+      "period": "Feb 2026 – Jan 2028",
+      "description": "Core modules: Financial Management, Entrepreneurial Finance & Venture Capital."
+    },
+    {
+      "id": "edu-torvergata",
+      "building": "education",
+      "title": "BSc Business Administration and Economics",
+      "org": "University of Rome Tor Vergata",
+      "location": "Rome, Italy",
+      "period": "Sep 2022 – Jul 2025",
+      "description": "Graduated 110 cum laude / 110. Coursework included Corporate Finance, Econometrics, Mathematical Finance and Quantitative Methods I–III."
+    },
+    {
+      "id": "edu-highschool",
+      "building": "education",
+      "title": "High School Diploma — Cambridge Scientific Lyceum",
+      "org": "Liceo Aristotele",
+      "location": "Rome, Italy",
+      "period": "Sep 2017 – Jun 2022",
+      "description": "Final grade 100/100."
+    },
+    {
+      "id": "award-scholarship",
+      "building": "awards",
+      "title": "Merit Scholarship",
+      "period": "Apr 2025",
+      "description": "Awarded to the top 10 students by GPA in the BSc course."
+    },
+    {
+      "id": "award-cumlaude",
+      "building": "awards",
+      "title": "110 cum laude / 110",
+      "period": "Jul 2025",
+      "description": "Top possible grade for the BSc in Business Administration and Economics."
+    },
+    {
+      "id": "proj-accor",
+      "building": "skills",
+      "title": "Project: Accor financial & budgetary analysis",
+      "description": "Academic financial and budgetary analysis of Accor.",
+      "highlights": ["Graded 19.7 / 20"]
+    },
+    { "id": "skill-financial-analysis", "building": "skills", "title": "Financial analysis" },
+    { "id": "skill-pricing", "building": "skills", "title": "Pricing & margin management" },
+    { "id": "skill-trade-finance", "building": "skills", "title": "Trade finance" },
+    { "id": "skill-risk", "building": "skills", "title": "Risk management" },
+    { "id": "skill-backtesting", "building": "skills", "title": "Quantitative analysis & back-testing" },
+    { "id": "skill-research", "building": "skills", "title": "Market research & report writing" },
+    { "id": "skill-negotiation", "building": "skills", "title": "Negotiation & client relations" },
+    { "id": "skill-leadership", "building": "skills", "title": "Leadership" },
+    { "id": "skill-teamwork", "building": "skills", "title": "Teamwork" },
+    { "id": "skill-crosscultural", "building": "skills", "title": "Cross-cultural communication" },
+    { "id": "skill-vc", "building": "skills", "title": "Entrepreneurial finance & VC" },
+    { "id": "skill-stata-r", "building": "skills", "title": "Stata MP & R" },
+    { "id": "skill-office", "building": "skills", "title": "Excel, Word, PowerPoint, Canva" },
+    {
+      "id": "club-refc",
+      "building": "clubs",
+      "title": "Researcher, Operations",
+      "org": "Nova SBE Real Estate Finance Club",
+      "location": "Lisbon, Portugal",
+      "period": "Feb 2026 – present",
+      "description": "Part of the club's research pipeline: market research, expert interviews, financial data analysis and report writing.",
+      "highlights": ["Topics: portfolio management, capital markets, investment strategies"]
+    },
+    {
+      "id": "club-novaai",
+      "building": "clubs",
+      "title": "Founder",
+      "org": "Nova AI Club",
+      "location": "Lisbon, Portugal",
+      "period": "2026 – present",
+      "description": "Founding Nova SBE's AI student club."
+    },
+    {
+      "id": "intl-erasmus",
+      "building": "international",
+      "title": "Erasmus+ semester",
+      "org": "ISEG — University of Lisbon",
+      "location": "Lisbon, Portugal",
+      "description": "One-semester exchange during the BSc."
+    },
+    {
+      "id": "intl-languages",
+      "building": "international",
+      "title": "Four languages",
+      "description": "English (mother tongue), Italian (native), Spanish (advanced, C1), Portuguese (conversational / business)."
+    },
+    {
+      "id": "intl-roots",
+      "building": "international",
+      "title": "Multicultural roots",
+      "description": "Bilingual family: father from Johannesburg, mother from Rome."
+    },
+    {
+      "id": "comm-rugby",
+      "building": "community",
+      "title": "Competitive rugby player",
+      "period": "8 years",
+      "description": "Played at national level in Italy."
+    },
+    {
+      "id": "comm-scouts",
+      "building": "community",
+      "title": "Scouting — Patrol Chief",
+      "period": "2015 – 2023",
+      "description": "Deputy patrol chief for one year, patrol chief for two. Learned to lead a group through encouragement rather than enforcement."
+    },
+    {
+      "id": "comm-santegidio",
+      "building": "community",
+      "title": "Volunteer, Community of Sant'Egidio",
+      "location": "Rome, Italy",
+      "period": "Sep 2021 – Jan 2023",
+      "description": "Moral and economic support for the homeless: delivery of food parcels, clothes and blankets."
+    },
+    {
+      "id": "comm-tutoring",
+      "building": "community",
+      "title": "Volunteer Tutor, Elementary School",
+      "location": "Rome, Italy",
+      "period": "Sep 2021 – Jan 2023",
+      "description": "After-school support with homework and projects for children in difficult economic situations."
+    },
+    {
+      "id": "contact-email",
+      "building": "contact",
+      "title": "Email",
+      "links": [{ "label": "jacopo@cartanese.com", "url": "mailto:jacopo@cartanese.com" }]
+    },
+    {
+      "id": "contact-linkedin",
+      "building": "contact",
+      "title": "LinkedIn",
+      "links": [{ "label": "Jacopo Cartanese", "url": "https://www.linkedin.com/in/jacopo-cartanese-0259762a9" }]
+    }
+  ],
+  "connections": [
+    ["skill-financial-analysis", "exp-xtronix"],
+    ["skill-financial-analysis", "club-refc"],
+    ["skill-financial-analysis", "proj-accor"],
+    ["skill-financial-analysis", "edu-nova"],
+    ["skill-pricing", "exp-xtronix"],
+    ["skill-trade-finance", "exp-xtronix"],
+    ["skill-risk", "exp-algotrading"],
+    ["skill-backtesting", "exp-algotrading"],
+    ["skill-backtesting", "edu-torvergata"],
+    ["skill-research", "club-refc"],
+    ["skill-research", "exp-algotrading"],
+    ["skill-research", "proj-accor"],
+    ["skill-negotiation", "exp-jetor"],
+    ["skill-leadership", "comm-scouts"],
+    ["skill-leadership", "club-novaai"],
+    ["skill-teamwork", "comm-rugby"],
+    ["skill-teamwork", "comm-scouts"],
+    ["skill-crosscultural", "exp-jetor"],
+    ["skill-crosscultural", "intl-erasmus"],
+    ["skill-crosscultural", "intl-languages"],
+    ["skill-crosscultural", "exp-algotrading"],
+    ["skill-vc", "edu-nova"],
+    ["skill-stata-r", "edu-torvergata"],
+    ["proj-accor", "edu-torvergata"],
+    ["award-scholarship", "edu-torvergata"],
+    ["award-cumlaude", "edu-torvergata"],
+    ["club-refc", "edu-nova"],
+    ["club-novaai", "edu-nova"],
+    ["intl-erasmus", "edu-torvergata"]
+  ]
+}
